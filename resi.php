@@ -1,10 +1,10 @@
 <?php
-/**
- * CREATE : RAFLY SAHNUR
- * GANTI TULISAN SEMOGA MATI MENDADAK LO AJG
- */
+
+
+
+
 awal:
-echo "MADE BY RAFLY SAHNUR".PHP_EOL;
+echo "MADE BY NEVZ".PHP_EOL;
 echo "1. DHL ".PHP_EOL."2. Aliex".PHP_EOL."3. USPS".PHP_EOL."4. SHOPEE VN".PHP_EOL.": ";
 $choose = trim(fgets(STDIN));
 echo "Berapa Banyak? ";
